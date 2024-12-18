@@ -1,0 +1,220 @@
+* {
+  @import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+body {
+  /* margin: 0; */
+  /* padding: 0; */
+}
+
+.head {
+  width: 50px;
+  height: 100px;
+
+  font-size: large;
+}
+
+.web {
+  background-color: rgb(29, 19, 19);
+  color: white;
+  /* margin-left: 600px; */
+
+  font-size: 25px;
+  width: 300px;
+  height: 50px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-weight: 300px;
+  font-family: "Open Sans", sans-serif;
+  /* position: relative;
+top: 100px; */
+}
+
+.divweb {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 15px;
+}
+
+.pic {
+  background-image: url(WEATHER-MK.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  background-attachment: fixed;
+}
+
+.head {
+  background-color: rgb(31, 29, 29);
+  height: 100px;
+  width: 100%;
+  color: white;
+}
+
+.PARALLEX {
+  background-color: rgb(31, 29, 29);
+  margin-bottom: 0px;
+  color: white;
+  height: 200px;
+  font-size: 20px;
+  width: 100%;
+  text-align: center;
+}
+
+.h3 {
+  text-align: center;
+  margin-left: 100px;
+}
+
+.Vib {
+  background-color: rgb(29, 19, 19);
+  color: white;
+  /* margin-left: 600px; */
+
+  font-size: 25px;
+  width: 300px;
+  height: 50px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-weight: 300px;
+  font-family: "Open Sans", sans-serif;
+  /* position: relative;
+top: 100px; */
+}
+
+.divsec{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 15px;
+}
+
+
+.pie {
+  
+    background-image: url(ORI.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    background-attachment: fixed;
+  
+}
+
+
+
+.sec{
+  background-color: rgb(31, 29, 29);
+  margin-bottom: 0px;
+  color: white;
+  height: 200px;
+  font-size: 20px;
+  width: 100%;
+  text-align: center;
+}
+
+.h3 {
+  text-align: center;
+  margin-left: 100px;
+}
+
+
+.try {
+  background-color: rgb(29, 19, 19);
+  color: white;
+  /* margin-left: 600px; */
+
+  font-size: 25px;
+  width: 300px;
+  height: 50px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-weight: 300px;
+  font-family: "Open Sans", sans-serif;
+  /* position: relative;
+top: 100px; */
+
+
+}
+
+.divrad {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 15px;
+}
+
+
+.pic{background-image: url(usi.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+width: 100%;
+height: 100vh;
+background-attachment: fixed;
+}
+
+
+  .cha {
+    background-color: rgb(29, 19, 19);
+    color: white;
+    /* margin-left: 600px; */
+  
+    font-size: 25px;
+    width: 300px;
+    height: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+    font-weight: 300px;
+    font-family: "Open Sans", sans-serif;
+    /* position: relative;
+  top: 100px; */
+  
+  
+  }
+
+  .divcir {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 15px;
+  }
+
+
+
+
+  .Pho{background-image: url(final.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    background-attachment: fixed;
+    }
+  
+   
+    
